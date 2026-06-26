@@ -1,0 +1,123 @@
+progress: 10/3000 done, best=45.0ms ip=172.64.229.193 prefix=172.64.229.0/24 elapsed=1s nodes=25
+progress: 20/3000 done, best=45.0ms ip=172.64.229.193 prefix=172.64.229.0/24 elapsed=2.3s nodes=25
+progress: 99/3000 done, best=45.0ms ip=172.64.229.193 prefix=172.64.229.0/24 elapsed=3.3s nodes=37
+progress: 118/3000 done, best=45.0ms ip=172.64.229.193 prefix=172.64.229.0/24 elapsed=4.4s nodes=65
+progress: 131/3000 done, best=45.0ms ip=172.64.229.193 prefix=172.64.229.0/24 elapsed=5.4s nodes=73
+progress: 218/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=6.5s nodes=117
+progress: 246/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=7.5s nodes=121
+progress: 276/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=8.6s nodes=121
+progress: 353/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=9.6s nodes=121
+progress: 381/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=10.6s nodes=121
+progress: 406/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=11.6s nodes=121
+progress: 473/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=12.7s nodes=125
+progress: 504/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=13.7s nodes=125
+progress: 537/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=14.7s nodes=129
+progress: 592/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=15.7s nodes=141
+progress: 615/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=16.8s nodes=141
+progress: 652/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=17.8s nodes=157
+progress: 700/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=18.8s nodes=173
+progress: 730/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=19.8s nodes=181
+progress: 767/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=20.8s nodes=185
+progress: 810/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=21.8s nodes=201
+progress: 845/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=22.9s nodes=225
+progress: 892/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=23.9s nodes=225
+progress: 936/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=24.9s nodes=229
+progress: 966/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=25.9s nodes=233
+progress: 1021/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=26.9s nodes=241
+progress: 1063/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=27.9s nodes=245
+progress: 1096/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=28.9s nodes=253
+progress: 1144/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=29.9s nodes=261
+progress: 1187/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=30.9s nodes=265
+progress: 1224/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=31.9s nodes=269
+progress: 1273/3000 done, best=31.0ms ip=172.64.229.231 prefix=172.64.229.0/24 elapsed=33s nodes=269
+progress: 1321/3000 done, best=31.0ms ip=172.64.229.30 prefix=172.64.229.0/24 elapsed=34s nodes=281
+progress: 1357/3000 done, best=31.0ms ip=172.64.229.30 prefix=172.64.229.0/24 elapsed=35s nodes=281
+progress: 1396/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=36s nodes=285
+progress: 1445/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=37s nodes=305
+progress: 1493/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=38.1s nodes=309
+progress: 1533/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=39.1s nodes=325
+progress: 1585/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=40.1s nodes=325
+progress: 1635/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=41.1s nodes=325
+progress: 1677/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=42.1s nodes=329
+progress: 1721/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=43.2s nodes=345
+progress: 1761/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=44.2s nodes=353
+progress: 1806/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=45.2s nodes=357
+progress: 1860/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=46.2s nodes=361
+progress: 1898/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=47.3s nodes=361
+progress: 1936/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=48.3s nodes=365
+progress: 1990/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=49.3s nodes=365
+progress: 2036/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=50.3s nodes=385
+progress: 2085/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=51.4s nodes=393
+progress: 2134/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=52.4s nodes=397
+progress: 2177/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=53.4s nodes=397
+progress: 2239/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=54.4s nodes=401
+progress: 2283/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=55.4s nodes=409
+progress: 2317/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=56.4s nodes=413
+progress: 2374/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=57.4s nodes=425
+progress: 2416/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=58.4s nodes=437
+progress: 2448/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=59.4s nodes=445
+progress: 2497/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=1m0.5s nodes=445
+progress: 2547/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=1m1.5s nodes=445
+progress: 2592/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=1m2.5s nodes=445
+progress: 2641/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=1m3.5s nodes=453
+progress: 2694/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=1m4.5s nodes=457
+progress: 2738/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=1m5.5s nodes=461
+progress: 2773/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=1m6.5s nodes=469
+progress: 2825/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=1m7.5s nodes=473
+progress: 2879/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=1m8.6s nodes=473
+progress: 2920/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=1m9.6s nodes=481
+progress: 2962/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=1m10.6s nodes=481
+progress: 2992/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=1m11.7s nodes=485
+progress: 3000/3000 done, best=30.0ms ip=172.64.229.237 prefix=172.64.229.0/24 elapsed=1m13.4s nodes=485
+download: using custom URL host=w.7rs.net path=/speedtest/?bytes=209715200 (top 20 IPs, max 50000000 bytes)
+download: rank=1 ip=172.64.229.237 ok=false mbps=10.83 ms=20150 bytes=27271244 err=timeout
+download: rank=2 ip=172.64.229.30 ok=true mbps=346.01 ms=1156 bytes=50000000 err=
+download: rank=3 ip=172.64.229.231 ok=true mbps=87.81 ms=4555 bytes=50000000 err=
+download: rank=4 ip=172.64.229.216 ok=true mbps=348.59 ms=1147 bytes=50000000 err=
+download: rank=5 ip=172.64.229.91 ok=true mbps=97.78 ms=4090 bytes=50000000 err=
+download: rank=6 ip=172.64.229.213 ok=false mbps=2.33 ms=14460 bytes=4210688 err=read tcp 192.168.50.59:37112->172.64.229.213:443: read: connection timed out
+download: rank=7 ip=172.64.229.61 ok=false mbps=3.53 ms=16831 bytes=7425064 err=read tcp 192.168.50.59:3816->172.64.229.61:443: read: connection timed out
+download: rank=8 ip=172.64.229.161 ok=true mbps=362.18 ms=1104 bytes=50000000 err=
+download: rank=9 ip=172.64.229.118 ok=true mbps=386.42 ms=1035 bytes=50000000 err=
+download: rank=10 ip=172.64.229.189 ok=true mbps=291.74 ms=1371 bytes=50000000 err=
+download: rank=11 ip=172.64.229.84 ok=true mbps=408.02 ms=980 bytes=50000000 err=
+download: rank=12 ip=172.64.229.173 ok=false mbps=0.00 ms=9481 bytes=0 err=Get "https://172.64.229.173/speedtest/?bytes=209715200": read tcp 192.168.50.59:31892->172.64.229.173:443: read: connection reset by peer
+download: rank=13 ip=172.64.229.19 ok=true mbps=79.56 ms=5027 bytes=50000000 err=
+download: rank=14 ip=172.64.229.66 ok=true mbps=84.20 ms=4750 bytes=50000000 err=
+download: rank=15 ip=172.64.229.197 ok=true mbps=88.70 ms=4509 bytes=50000000 err=
+download: rank=16 ip=172.64.229.103 ok=true mbps=91.85 ms=4354 bytes=50000000 err=
+download: rank=17 ip=172.64.229.230 ok=true mbps=88.93 ms=4497 bytes=50000000 err=
+download: rank=18 ip=172.64.229.52 ok=true mbps=73.17 ms=5467 bytes=50000000 err=
+download: rank=19 ip=172.64.229.226 ok=true mbps=100.68 ms=3972 bytes=50000000 err=
+download: rank=20 ip=172.64.229.240 ok=true mbps=95.31 ms=4196 bytes=50000000 err=
+download: rank=21 ip=172.64.229.202 ok=true mbps=91.01 ms=4395 bytes=50000000 err=
+download: rank=22 ip=172.64.229.86 ok=false mbps=0.00 ms=462 bytes=0 err=Get "https://172.64.229.86/speedtest/?bytes=209715200": context canceled
+download: rank=23 ip=172.64.229.123 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.123/speedtest/?bytes=209715200": interrupt signal received
+download: rank=24 ip=172.64.229.29 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.29/speedtest/?bytes=209715200": interrupt signal received
+download: rank=25 ip=172.64.229.152 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.152/speedtest/?bytes=209715200": interrupt signal received
+download: rank=26 ip=172.64.229.222 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.222/speedtest/?bytes=209715200": interrupt signal received
+download: rank=27 ip=172.64.229.71 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.71/speedtest/?bytes=209715200": interrupt signal received
+download: rank=28 ip=172.64.229.153 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.153/speedtest/?bytes=209715200": interrupt signal received
+download: rank=29 ip=172.64.229.131 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.131/speedtest/?bytes=209715200": interrupt signal received
+download: rank=30 ip=172.64.229.204 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.204/speedtest/?bytes=209715200": interrupt signal received
+download: rank=31 ip=172.64.229.248 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.248/speedtest/?bytes=209715200": interrupt signal received
+download: rank=32 ip=172.64.229.182 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.182/speedtest/?bytes=209715200": interrupt signal received
+download: rank=33 ip=172.64.229.194 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.194/speedtest/?bytes=209715200": interrupt signal received
+download: rank=34 ip=172.64.229.70 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.70/speedtest/?bytes=209715200": interrupt signal received
+download: rank=35 ip=172.64.229.60 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.60/speedtest/?bytes=209715200": interrupt signal received
+download: rank=36 ip=172.64.229.228 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.228/speedtest/?bytes=209715200": interrupt signal received
+download: rank=37 ip=172.64.229.250 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.250/speedtest/?bytes=209715200": interrupt signal received
+download: rank=38 ip=172.64.229.28 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.28/speedtest/?bytes=209715200": interrupt signal received
+download: rank=39 ip=172.64.229.178 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.178/speedtest/?bytes=209715200": interrupt signal received
+download: rank=40 ip=172.64.229.77 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.77/speedtest/?bytes=209715200": interrupt signal received
+download: rank=41 ip=172.64.229.155 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.155/speedtest/?bytes=209715200": interrupt signal received
+download: rank=42 ip=172.64.229.20 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.20/speedtest/?bytes=209715200": interrupt signal received
+download: rank=43 ip=172.64.229.236 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.236/speedtest/?bytes=209715200": interrupt signal received
+download: rank=44 ip=172.64.229.8 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.8/speedtest/?bytes=209715200": interrupt signal received
+download: rank=45 ip=172.64.229.98 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.98/speedtest/?bytes=209715200": interrupt signal received
+download: rank=46 ip=172.64.229.142 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.142/speedtest/?bytes=209715200": interrupt signal received
+download: rank=47 ip=172.64.229.51 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.51/speedtest/?bytes=209715200": interrupt signal received
+download: rank=48 ip=172.64.229.44 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.44/speedtest/?bytes=209715200": interrupt signal received
+download: rank=49 ip=172.64.229.120 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.120/speedtest/?bytes=209715200": interrupt signal received
+download: rank=50 ip=172.64.229.9 ok=false mbps=0.00 ms=0 bytes=0 err=Get "https://172.64.229.9/speedtest/?bytes=209715200": interrupt signal received
+download: mode=sequential tested=50 succeeded=17 target=20
