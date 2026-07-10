@@ -1,6 +1,6 @@
 # Cloudflare Speed Test Result
 
-Last update: 2026-07-11 02:05:31 HKT
+Last update: 2026-07-11 02:35:15 HKT
 
 ## Files
 
@@ -11,5 +11,7 @@ Last update: 2026-07-11 02:05:31 HKT
 ## Result
 
 ```txt
-172.64.229.99:443#NRT-37.00ms-28.05MBps
+172.64.229.128:443#NRT-40.00ms-29.01MBps
+172.64.229.6:443#NRT-44.00ms-27.05MBps
+172.64.229.165:443#NRT-45.00ms-25.18MBps
 ```
